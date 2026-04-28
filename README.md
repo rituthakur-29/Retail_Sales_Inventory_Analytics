@@ -106,7 +106,6 @@ Total:
 * 📌 SQL Scripts → `/sql/`
 * 📌 Power BI Dashboard → `/powerbi/`
 * 📌 Screenshots → `/powerbi/screenshots/`
-* 📌 Documentation → `/docs/`
 
 ---
 
